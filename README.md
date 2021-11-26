@@ -1,1 +1,1 @@
-# ai-prooject-for-healthcare
+# ai-projects-for-healthcare
